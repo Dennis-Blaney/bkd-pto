@@ -1,10 +1,14 @@
 #Baked Potatoes
+
 Learn how to make perfect baked potatoes! this recipe is simple
+
 ##Ingredients
+
 -1 large Potatoe
 -Cooking oil
 -Salt
-##Instructioins
+
+###Instructioins
 
 1. Preheat the oven to 425°F.
 2. Wash and scrub the potato.
